@@ -232,9 +232,10 @@ Backend deployed on:
 
 * Render
 
-Frontend can be deployed on:
+Frontend deployed on:
 
 * Streamlit Cloud / local
+Link: https://ai-powered-talent-scouting-engagement-agent-menwkehconrtvddywz.streamlit.app/
 
 ---
 
