@@ -58,5 +58,108 @@
     "experience": 5,
     "location": "Hyderabad",
     "summary": "Experienced backend engineer working with scalable systems."
+  },
+  {
+    "name": "Priya Nair",
+    "skills": [
+      "Python",
+      "FastAPI",
+      "ML",
+      "Docker"
+    ],
+    "experience": 2,
+    "location": "Kochi",
+    "summary": "Junior ML engineer working on model deployment."
+  },
+  {
+    "name": "Karan Mehta",
+    "skills": [
+      "React",
+      "Next.js",
+      "TypeScript"
+    ],
+    "experience": 3,
+    "location": "Delhi",
+    "summary": "Frontend developer building scalable web apps."
+  },
+  {
+    "name": "Neha Gupta",
+    "skills": [
+      "SQL",
+      "PowerBI",
+      "Excel",
+      "Python"
+    ],
+    "experience": 4,
+    "location": "Noida",
+    "summary": "Data analyst with dashboarding expertise."
+  },
+  {
+    "name": "Arjun Reddy",
+    "skills": [
+      "Python",
+      "Flask",
+      "MongoDB"
+    ],
+    "experience": 3,
+    "location": "Hyderabad",
+    "summary": "Backend developer working on REST APIs."
+  },
+  {
+    "name": "Simran Kaur",
+    "skills": [
+      "UI/UX",
+      "Figma",
+      "HTML",
+      "CSS"
+    ],
+    "experience": 2,
+    "location": "Chandigarh",
+    "summary": "UI designer focused on user-centered design."
+  },
+  {
+    "name": "Rohit Jain",
+    "skills": [
+      "Machine Learning",
+      "Scikit-learn",
+      "Python"
+    ],
+    "experience": 5,
+    "location": "Jaipur",
+    "summary": "Senior ML engineer working on NLP systems."
+  },
+  {
+    "name": "Deepak Yadav",
+    "skills": [
+      "Java",
+      "Spring",
+      "MySQL"
+    ],
+    "experience": 4,
+    "location": "Gurgaon",
+    "summary": "Backend developer with strong database design skills."
+  },
+  {
+    "name": "Pooja Singh",
+    "skills": [
+      "Python",
+      "FastAPI",
+      "SQL"
+    ],
+    "experience": 3,
+    "location": "Lucknow",
+    "summary": "Backend engineer focused on API development."
+  },
+  {
+    "name": "Manish Kumar",
+    "skills": [
+      "DevOps",
+      "AWS",
+      "Docker",
+      "Kubernetes"
+    ],
+    "experience": 6,
+    "location": "Pune",
+    "summary": "DevOps engineer managing cloud infrastructure."
   }
 ]
