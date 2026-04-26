@@ -3,7 +3,7 @@ import requests
 import pandas as pd
 
 # Backend API
-API_URL = "http://127.0.0.1:8000/process"
+API_URL = "https://ai-powered-talent-scouting-engagement-0fsp.onrender.com"
 
 st.set_page_config(page_title="Talent Scout AI", layout="wide")
 
