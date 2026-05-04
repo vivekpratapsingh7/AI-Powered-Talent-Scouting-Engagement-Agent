@@ -216,7 +216,10 @@ POST /process
 ```
 
 ---
-
+## Sample input JD
+* Hiring a Backend Developer with 4 years experience in Python, Django or FastAPI. Must have experience with REST APIs, PostgreSQL, and Docker. Knowledge of cloud platforms like AWS is preferred.
+* Looking for a Frontend Developer with 2+ years experience in React, JavaScript, and CSS. Experience with Next.js and UI optimization is a bonus.
+* We are hiring a Data Analyst with strong skills in SQL, Excel, and Power BI. Experience in Python and data visualization tools is preferred. Minimum 2 years experience required.
 ## Sample Output Features
 
 * Ranked candidate list
